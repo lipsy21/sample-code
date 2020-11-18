@@ -5,7 +5,7 @@ package com.demo;
  */
 public class App {
 
-    public void CustomClassCall(String s) {
+    public void App(String s) {
         System.out.println("Packaged class called" + s);
     }
    
